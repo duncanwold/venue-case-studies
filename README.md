@@ -2,7 +2,7 @@
 
 > Studies in audience psychology created while running an in-house analytics shop at a live entertainment venue
 
-Hello fellow data enthusiasts! This repository showcases the analytics work I did while operating PianoFight, which was during its time (2014-2023) the most active indy arts venues on the west coast of the United Stages. I ran our in-house "Analytics Shop" to help us better understand our buisness, and our customers.  
+Hello fellow data enthusiasts! This repository showcases the analytics work I did while operating PianoFight, which was during its time (2014-2023) the most active indy arts venues on the west coast of the United States. I ran our in-house "Analytics Shop" to help us better understand our business, and our customers.  
 
 These analyses are based on ticketing data retrieved from the Eventbrite API, and were processed using a combination of R, Javascript, and Python for statistical analysis and visualization.
 
@@ -35,7 +35,7 @@ Understand what factors do and don't affect ticket buying decisions in order to.
 
 **Surprising Result:** When we normalized by *number of shows* instead of *calendar weeks*, mid-week and late-night slots performed nearly as well.
 
-**Business Impact:** Shifted programming strategy to fill underutilized time slots, increasing total venue revenue by maximizing all available inventory. Note: This was by far the *most* impactful case study we worked on at PianoFight. It really transformed a big part of our buisness.
+**Business Impact:** Shifted programming strategy to fill underutilized time slots, increasing total venue revenue by maximizing all available inventory. Note: This was by far the *most* impactful case study we worked on at PianoFight. It really transformed a big part of our business.
 
 ---
 
@@ -43,7 +43,7 @@ Understand what factors do and don't affect ticket buying decisions in order to.
 
 **Initial Assumption:** Customers who buy higher priced tickets will also spend more on food and drink than those spending less.
 
-**Surprising Result:** We found *no* correclation between the price of a show and the per person spend at the bar.
+**Surprising Result:** We found *no* correlation between the price of a show and the per person spend at the bar.
 
 **Key Insight:** Customers evaluate entertainment purchases differently than food/drink purchases. Price sensitivity varies by purchase category.
 
@@ -78,7 +78,7 @@ This analytics work was enabled by the [Revenue Wizard](https://github.com/dunca
 
 ## Background on PianoFight
 
-PianoFight was a venue in San Francisco with three event spaces, which ran aroun 25-30 shows per week (over 9000 in total). The programming was extremely ecclectic: comedy, theater, concerts, film, drag, dance, game shows, etc. I shared these insights with Eventbrite's data team in 2020 (where I curretnly work) as examples of how venue operators can leverage ticketing data.
+PianoFight was a venue in San Francisco with three event spaces, which ran aroun 25-30 shows per week (over 9000 in total). The programming was extremely eclectic: comedy, theater, concerts, film, drag, dance, game shows, etc. I shared these insights with Eventbrite's data team in 2020 (where I currently work) as examples of how venue operators can leverage ticketing data.
 
 ## Questions?
 
