@@ -1,6 +1,6 @@
 # Do higher ticket prices correlate to higher bar sales?
 
-:data_party: **Hello once again fellow data enthusiasts!** :data_party:
+**Hello once again fellow data enthusiasts!**
 
 Here's another case study from the PianoFight Venue Analytics Shop.
 
@@ -22,7 +22,7 @@ Chart the average ticket price of all tickets sold to a given night vs the avera
 
 **Actually, not really!** Big ticket spenders spent on average about the same on drinks and food as folks buying cheaper tickets.
 
-This came as a bit of surprise! But the data showed that our customers were evaluating events they might attend with far less of an eye toward the price, than the food and drink items they were considering when on site.
+This came as a bit of a surprise! But the data showed that our customers were evaluating events they might attend with far less of an eye toward the price, than the food and drink items they were considering when on site.
 
 ## Why This Matters
 
