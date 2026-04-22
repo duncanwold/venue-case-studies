@@ -2,7 +2,7 @@
 
 **Hello fellow data enthusiasts!**
 
-I've really enjoyed all the data insights being shared, and so I wanted to contribute a few of my own. Back in my venue operator days, I started an in house Venue Analytics Shop, where I worked to understand our business better, and (hopefully) make us more money. 💰 Most insights were based off ticketing data retrieved from the Eventbrite API.
+I've really enjoyed all the data insights being shared, and so I wanted to contribute a few of my own. Back in my venue operator days, I started an in-house Venue Analytics Shop, where I worked to understand our business better, and (hopefully) make us more money. 💰 Most insights were based off ticketing data retrieved from the Eventbrite API.
 
 ## The Question
 
@@ -22,7 +22,7 @@ Chart the ticket price (x axis) vs the final number of tickets sold (y axis) for
 
 ## How did this help our business?
 
-While not conclusive, it lent some credibility to a theory I had, that **price was relevant to the perceived quality of a show.** (i.e. When someone sees a show is $5 they may regard is as lower quality than if it's $25.) 
+While not conclusive, it lent some credibility to a theory I had, that **price was relevant to the perceived quality of a show.** (i.e. When someone sees a show is $5 they may regard it as lower quality than if it's $25.) 
 
 It was very impactful in convincing our renters that they could **raise their ticket prices (at least up to ~$30)**, and not experience a drop in total tickets sold. This meant we could raise our rental prices, and producers could pass that cost onto ticket buyers.
 
