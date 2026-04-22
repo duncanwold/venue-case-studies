@@ -2,7 +2,7 @@
 
 > Studies in audience psychology created while running an in-house analytics shop at a live entertainment venue
 
-Hello fellow data enthusiasts! This repository showcases the analytics work I did while operating PianoFight, which was during its time (2014-2023) the most active indy arts venues on the west coast of the United States. I ran our in-house "Analytics Shop" to help us better understand our business, and our customers.  
+Hello fellow data enthusiasts! This repository showcases the analytics work I did while operating PianoFight, which was during its time (2014-2023) the most active indie arts venues on the west coast of the United States <sup>[[source]](https://dothebay.com/p/pianofight-closing-march-18th-sf-oakland)</sup>. I ran our in-house "Analytics Shop" to help us better understand our business, and our customers.  
 
 These analyses are based on ticketing data retrieved from the Eventbrite API, and were processed using a combination of R, Javascript, and Python for statistical analysis and visualization.
 
@@ -74,11 +74,11 @@ Each case study includes:
 
 ## Related Projects
 
-This analytics work was enabled by the [Revenue Wizard](https://github.com/duncanwold/revenue-wizard), an automated financial reconciliation and buisness analytics tool that I built.
+This analytics work was enabled by the [Revenue Wizard](https://github.com/duncanwold/revenue-wizard), an automated financial reconciliation and business analytics tool that I built.
 
 ## Background on PianoFight
 
-PianoFight was a venue in San Francisco with three event spaces, which ran aroun 25-30 shows per week (over 9000 in total). The programming was extremely eclectic: comedy, theater, concerts, film, drag, dance, game shows, etc. I shared these insights with Eventbrite's data team in 2020 (where I currently work) as examples of how venue operators can leverage ticketing data.
+PianoFight was a venue in San Francisco with three event spaces, which ran around 25-30 shows per week (over 9000 in total). The programming was extremely eclectic: comedy, theater, concerts, film, drag, dance, game shows, etc.
 
 ## Questions?
 
