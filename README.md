@@ -1,4 +1,4 @@
-# Theater Venue Analytics 
+# Music and Theater Venue Analytics 
 
 > Studies in audience psychology created while running an in-house analytics shop at a live entertainment venue
 
