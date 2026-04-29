@@ -1,4 +1,4 @@
-# Music and Theater Venue Analytics 
+# Music and Theater Ticket Buyer Case Studies
 
 > Studies in audience psychology created while running an in-house analytics shop at a live entertainment venue
 
